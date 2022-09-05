@@ -1,6 +1,7 @@
 # Random-User-Api
 Link: https://random-user-api-seven.vercel.app/
 Techologies Used: Node.js, Express
+<br/>
 Get random user: https://random-user-api-seven.vercel.app/user/random
 Get all user: https://random-user-api-seven.vercel.app/user/all
 Save a user: https://random-user-api-seven.vercel.app/user/save
