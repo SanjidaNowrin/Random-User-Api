@@ -12,8 +12,10 @@ router.route("/all").get(useController.getAllUser);
 // post user
 router.route("/save").post(useController.saveUser);
 
+// update user
 router.route("/update").patch(useController.updateUser);
 
+// multipleUpdates
 router.route("/bulk-update").patch(useController.bulkUpdate);
 
 router.route("/delete").delete(useController.deleteUser);
